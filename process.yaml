@@ -1,0 +1,4 @@
+apps:
+  - script: app/index.js
+    watch  : true
+    name: potrainto_front-end
