@@ -1,6 +1,6 @@
 FROM node:alpine
 
-LABEL maintainer="marc@marclewis.io"
+LABEL maintainer="marc@marclewis.io, siddv19@gmail.com"
 
 WORKDIR /usr/src/app
 
